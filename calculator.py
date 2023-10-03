@@ -1,6 +1,6 @@
 def main():
     try:
-        num1 = float(input("Введите первое число: "))
+        num1 = float(input("Введите первое число : "))
         operator = input("Введите арифметический оператор (+, -, *, /): ")
         num2 = float(input("Введите второе число: "))
 
