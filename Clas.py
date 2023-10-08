@@ -1,4 +1,4 @@
-class Car:
+class Car :
     def __init__(self, model, year, engine_volume, price, mileage):
         self.model = model
         self.year = year
